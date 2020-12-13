@@ -1,7 +1,4 @@
-package com.capita.exception;
-
-import java.io.IOException;
-import java.sql.SQLException;
+package com.jpro.exception;
 
 class Testthrows1  {
 	int a=10,b=0,c;

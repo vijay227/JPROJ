@@ -1,4 +1,4 @@
-package com.capita.Runtime;
+package com.jpro.Runtime;
 class TestMultitasking5{  
  public static void main(String args[]){  
   Runnable r1=new Runnable(){  

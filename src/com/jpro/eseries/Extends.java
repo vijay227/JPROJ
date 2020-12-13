@@ -1,4 +1,4 @@
-package com.capita.eseries;
+package com.jpro.eseries;
 
 class MultithreadingDemo extends Thread {
 	public void run() {

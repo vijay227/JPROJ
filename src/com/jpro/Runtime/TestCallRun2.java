@@ -1,4 +1,4 @@
-package com.capita.Runtime;
+package com.jpro.Runtime;
 class TestCallRun2 extends Thread{  
  public void run(){  
   for(int i=1;i<5;i++){  

@@ -1,4 +1,4 @@
-package com.capita.inner;
+package com.jpro.inner;
 
 public class Inner {
 

@@ -1,4 +1,4 @@
-package com.capita.exception;
+package com.jpro.exception;
 
 import java.io.IOException;
 

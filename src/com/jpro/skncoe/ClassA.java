@@ -1,4 +1,4 @@
-package com.capita.skncoe;
+package com.jpro.skncoe;
 
 public abstract class ClassA {
 	  public abstract void hello();

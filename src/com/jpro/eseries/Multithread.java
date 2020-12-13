@@ -1,6 +1,6 @@
-package com.capita.eseries;
+package com.jpro.eseries;
 
-import com.capita.skncoe.ClassA;
+import com.jpro.skncoe.ClassA;
 
 // 
 class MultiThreading extends ClassA implements Runnable{
